@@ -31,50 +31,77 @@
       <h1 class="page-content__title">Информационные материалы</h1>
       <!-- TODO: Блок с переключением сетки. Необходимо раскомментировать -->
       
-      <!--      <div class="page-content__switch">-->
-      <!--        <button class="page-content__toggle">-->
-      <!--          <svg class="page-content__icon" width="24" height="16" viewBox="0 0 24 16" fill="none" xmlns="http://www.w3.org/2000/svg">-->
-      <!--            <path d="M24 15H-8.9407e-07" />-->
-      <!--            <path d="M24 1H0" />-->
-      <!--            <path d="M24 8H-8.9407e-07" />-->
-      <!--          </svg>-->
-      <!--          <span class="page-content__toggle-text">Списком</span>-->
-      <!--        </button>-->
-      <!--        -->
-      <!--        <button class="page-content__toggle page-content__toggle&#45;&#45;current">-->
-      <!--          <svg class="page-content__icon" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">-->
-      <!--            <rect x="0.5" y="0.5" width="10" height="10" />-->
-      <!--            <rect x="0.5" y="13.5" width="10" height="10" />-->
-      <!--            <rect x="13.5" y="0.5" width="10" height="10" />-->
-      <!--            <rect x="13.5" y="13.5" width="10" height="10" />-->
-      <!--          </svg>-->
-      <!--          <span class="page-content__toggle-text">Плиткой</span>-->
-      <!--        </button>-->
-      <!--      </div>-->
-      
-      <div class="article-card">
-        <img class="article-card__picture" src="images/img-1.jpg" height="300" width="600"
-             alt="Изображение клубного здания">
+      <div class="page-content__switch">
+        <button class="page-content__toggle">
+          <svg class="page-content__icon" width="24" height="16" viewBox="0 0 24 16" fill="none"
+               xmlns="http://www.w3.org/2000/svg">
+            <path d="M24 15H-8.9407e-07" />
+            <path d="M24 1H0" />
+            <path d="M24 8H-8.9407e-07" />
+          </svg>
+          <span class="page-content__toggle-text">Списком</span>
+        </button>
         
-        <div class="article-card__info-wrapper">
-          <span class="article-card__date">29 августа</span>
+        <button class="page-content__toggle page-content__toggle--current">
+          <svg class="page-content__icon" width="24" height="24" viewBox="0 0 24 24" fill="none"
+               xmlns="http://www.w3.org/2000/svg">
+            <rect x="0.5" y="0.5" width="10" height="10" />
+            <rect x="0.5" y="13.5" width="10" height="10" />
+            <rect x="13.5" y="0.5" width="10" height="10" />
+            <rect x="13.5" y="13.5" width="10" height="10" />
+          </svg>
+          <span class="page-content__toggle-text">Плиткой</span>
+        </button>
+      </div>
+      
+      <main class="page-content__main">
+        <div class="article-card">
+          <img class="article-card__picture" src="images/img-1.jpg" height="300" width="600"
+               alt="Изображение клубного здания">
           
-          <h2 class="article-card__title">Эксперты Sminex назвали самые редкие решения для клубных домов</h2>
-          
-          
-          <p class="article-card__description">
-            Аналитики Sminex изучили наполнение находящихся в&nbsp;продаже 19&nbsp;элитных домов,
-            в&nbsp;которых до&nbsp;45&nbsp;квартир. Среди самых редких решений&nbsp;&mdash; вид из&nbsp;всех квартир на&nbsp;двор-сад,
-            воркаут-зона, фонтаны, шумоизоляция стен и&nbsp;наличие концепции комьюнити.
-          </p>
-          
-          <div class="article-card__wrapper-bottom">
-            <span class="article-card__views">378 просмотров</span>
+          <div class="article-card__info-wrapper">
+            <span class="article-card__date">29 августа</span>
             
-            <a class="article-card__link" href="#">Подробнее</a>
+            <h2 class="article-card__title">Эксперты Sminex назвали самые редкие решения для клубных домов</h2>
+            
+            
+            <p class="article-card__description">
+              Аналитики Sminex изучили наполнение находящихся в&nbsp;продаже 19&nbsp;элитных домов,
+              в&nbsp;которых до&nbsp;45&nbsp;квартир. Среди самых редких решений&nbsp;&mdash; вид из&nbsp;всех квартир на&nbsp;двор-сад,
+              воркаут-зона, фонтаны, шумоизоляция стен и&nbsp;наличие концепции комьюнити.
+            </p>
+            
+            <div class="article-card__wrapper-bottom">
+              <span class="article-card__views">378 просмотров</span>
+              
+              <a class="article-card__link" href="#">Подробнее</a>
+            </div>
           </div>
         </div>
-      </div>
+        
+        <div class="article-card">
+          <img class="article-card__picture" src="images/img-2.jpg" height="300" width="600"
+               alt="Изображение клубного здания">
+          
+          <div class="article-card__info-wrapper">
+            <span class="article-card__date">2 июля</span>
+            
+            <h2 class="article-card__title">Циан.Журнал: выбираем премиальный офис в&nbsp;деловом районе</h2>
+            
+            <p class="article-card__description">
+              Раз&nbsp;&mdash; топовая локация. Два&nbsp;&mdash; wow-архитектура. Три&nbsp;&mdash; технологичность. Редакция Циан.Журнала рассказала, какие офисы выбирают инвесторы в&nbsp;2023 году
+            </p>
+            
+            <div class="article-card__wrapper-bottom">
+              <span class="article-card__views">547 просмотров</span>
+              
+              <a class="article-card__link" href="#">Подробнее</a>
+            </div>
+          </div>
+        </div>
+      </main>
+      
+
     </div>
   </div>
 </main>

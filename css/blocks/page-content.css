@@ -2,6 +2,11 @@
   padding: 40px 0 120px;
 }
 
+.page-content__main {
+  display: flex;
+  gap: 30px;
+}
+
 .page-content__title {
   font-size: 60px;
   line-height: 60px;
