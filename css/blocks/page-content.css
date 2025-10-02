@@ -34,6 +34,7 @@
   padding: 0;
   border: none;
   font-family: "IBM Plex Sans", "Arial", sans-serif;
+  cursor: pointer;
 }
 
 .page-content__icon {
