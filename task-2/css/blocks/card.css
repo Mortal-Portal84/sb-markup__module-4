@@ -1,0 +1,93 @@
+.page-content__list {
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.employee-card {
+  padding: 30px;
+  width: 600px;
+  border-radius: 20px;
+  background-color: #F2F3EE;
+}
+
+.employee-card__info-wrapper {
+  display: flex;
+  gap: 30px;
+}
+
+.employee-card__text-wrapper {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.employee-card__subtitle,
+.employee-card__description {
+  display: block;
+  margin: 0 0 5px 0;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 18px;
+  color: #1D252D;
+}
+
+.employee-card__title {
+  margin: 0 0 20px 0;
+  letter-spacing: 0.04em;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 30px;
+  text-transform: uppercase;
+}
+
+.employee-card__picture {
+  width: 220px;
+  height: 330px;
+}
+
+.employee-card__text {
+  margin: 0 0 20px 0;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 300;
+}
+
+.employee-card__description {
+  text-align: right;
+}
+
+.employee-card__wrapper-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+  margin-top: auto;
+}
+
+.employee-card__views {
+  font-size: 14px;
+  line-height: 18px;
+  color: rgba(29, 37, 45, 0.5);
+}
+
+.employee-card__link {
+  max-width: 140px;
+  width: 100%;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  white-space: normal;
+  text-align: center;
+  font-size: 14px;
+  line-height: 18px;
+  padding: 7px 10px;
+  background-color: transparent;
+}
+
+.employee-card__link--secondary.employee-card__link {
+  border-radius: 40px;
+  background-color: #D6D2C4;
+}

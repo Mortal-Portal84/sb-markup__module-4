@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d6eaf2d-c9ea-42bb-adff-10b45a7544b2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sb-markup__module-4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/blocks/card.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/blocks/footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/blocks/header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/blocks/page-content.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/global/container.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/global/fonts.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/global/reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/IBMPlexSans-ExtraLight.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/IBMPlexSans-ExtraLight.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/IBMPlexSans-ExtraLight.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/IBMPlexSans-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/IBMPlexSans-Light.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/IBMPlexSans-Light.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icon-footer-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icon-header-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Mortal-Portal84&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:Mortal-Portal84/sb-markup__module-4.git&quot;,
+    &quot;accountId&quot;: &quot;cf345daa-1e2e-488b-be02-b1c69f00d625&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="33b15QTE0IAdnjunOZzrmnO7sM8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-WS-252.25557.126" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d6eaf2d-c9ea-42bb-adff-10b45a7544b2" name="Changes" comment="" />
+      <created>1759570774821</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759570774821</updated>
+      <workItem from="1759570776411" duration="1327000" />
+      <workItem from="1759572135717" duration="5189000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
