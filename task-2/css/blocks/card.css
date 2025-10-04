@@ -5,18 +5,25 @@
   margin: 0;
   padding: 0;
   list-style: none;
+  align-items: stretch;
 }
 
 .employee-card {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
   padding: 30px;
   width: 600px;
   border-radius: 20px;
   background-color: #F2F3EE;
+  /*height: 100%;*/
+  flex-grow: 1;
 }
 
 .employee-card__info-wrapper {
   display: flex;
   gap: 30px;
+  flex-grow: 1;
 }
 
 .employee-card__text-wrapper {
@@ -43,7 +50,7 @@
 }
 
 .employee-card__title {
-  margin: 0 0 20px 0;
+  margin: 0;
   letter-spacing: 0.04em;
   font-weight: 300;
   font-size: 24px;
