@@ -5,31 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d6eaf2d-c9ea-42bb-adff-10b45a7544b2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sb-markup__module-4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/blocks/card.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/blocks/footer.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/blocks/header.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/blocks/page-content.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/global/container.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/global/fonts.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/global/reboot.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/IBMPlexSans-ExtraLight.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/IBMPlexSans-ExtraLight.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/IBMPlexSans-ExtraLight.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/IBMPlexSans-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/IBMPlexSans-Light.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/IBMPlexSans-Light.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icon-footer-logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icon-header-logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-2/css/blocks/card.css" beforeDir="false" afterPath="$PROJECT_DIR$/task-2/css/blocks/card.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-2/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/task-2/team.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1759570774821</updated>
       <workItem from="1759570776411" duration="1327000" />
-      <workItem from="1759572135717" duration="5189000" />
+      <workItem from="1759572135717" duration="7782000" />
     </task>
     <servers />
   </component>
