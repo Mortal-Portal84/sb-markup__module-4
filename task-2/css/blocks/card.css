@@ -8,16 +8,19 @@
   align-items: stretch;
 }
 
+.page-content__list-item {
+  flex-grow: 1;
+  width: calc((100% - 30px) / 2);
+}
+
 .employee-card {
   display: flex;
   flex-direction: column;
   gap: 20px;
   padding: 30px;
-  width: 600px;
+  height: 100%;
   border-radius: 20px;
   background-color: #F2F3EE;
-  /*height: 100%;*/
-  flex-grow: 1;
 }
 
 .employee-card__info-wrapper {
@@ -74,17 +77,9 @@
   text-align: left;
 }
 
-.employee-card:not(:first-of-type) .employee-card__description,
-.employee-card:not(:first-of-type) .employee-card__text {
+.employee-card--centered.employee-card .employee-card__description,
+.employee-card--centered.employee-card .employee-card__text {
   text-align: center;
-}
-
-.employee-card:last-of-type .employee-card__description {
-  text-align: right;
-}
-
-.employee-card:last-of-type .employee-card__text {
-  text-align: left;
 }
 
 .employee-card__wrapper-bottom {
