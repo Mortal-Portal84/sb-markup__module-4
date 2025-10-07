@@ -59,6 +59,7 @@
 .features-list--inline .features-card__wrapper {
   flex-direction: column;
   align-items: center;
+  min-height: 285px;
 }
 
 .features-card__text-wrapper {
