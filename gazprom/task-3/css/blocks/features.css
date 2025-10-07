@@ -1,0 +1,106 @@
+.features-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 32px;
+}
+
+.features-list__item {
+  width: calc((100% - 32px) / 2) ;
+}
+
+.features-card {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 32px;
+  border-radius: 12px;
+  background-color: #E7EFFF;
+}
+
+.features-card--azure.features-card {
+  color: white;
+  background-color: #476BF0;
+}
+
+.features-card--azure .features-card__label {
+  color: rgba(255, 255, 255, 0.5);
+  border-color: rgba(255, 255, 255, 0.5);
+}
+
+.features-card--azure .features-card__link {
+  color: #476BF0;
+  background-color: white;
+}
+
+.features-card--aquamarine.features-card {
+  background-color: #ccf3e4;
+}
+
+.features-card--aqua.features-card {
+  background-color: #c2e5fd;
+}
+
+.features-card__wrapper {
+  display: flex;
+  gap: 20px;
+}
+
+.features-card__text-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.features-card__label,
+.features-card__link
+{
+  width: fit-content;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  white-space: normal;
+  text-align: center;
+  max-width: 240px;
+}
+
+.features-card__label {
+  border: 1px solid rgba(30, 34, 46, 0.5);
+  border-radius: 4px;
+  color: rgba(30, 34, 46, 0.5);
+  font-size: 10px;
+  font-weight: 500;
+  line-height: 14px;
+  padding: 5px;
+  text-align: center;
+  text-transform: uppercase;
+  min-width: 66px;
+  max-width: 240px;
+}
+
+.features-card__title {
+  margin: 0;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 30px;
+}
+
+.features-card__subtitle {
+  font-size: 15px;
+  line-height: 22px;
+}
+
+.features-card__image {
+  width: 280px;
+}
+
+.features-card__link {
+  padding: 10px 30px;
+  min-width: 140px;
+  max-width: 100%;
+  color: #FFFFFF;
+  font-size: 14px;
+  line-height: 20px;
+  text-decoration: none;
+  background-color: #476BF0;
+  border-radius: 8px;
+  text-align: center;
+}
